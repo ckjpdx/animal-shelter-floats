@@ -1,6 +1,7 @@
 .column {
   float: left;
-  width: 50%;
+  width: 47%;
+  margin: 10px;
 }
 img {
   width: 100%;
@@ -8,4 +9,7 @@ img {
 div.img-box {
   height: 250px;
   overflow: hidden;
+}
+div h2 {
+  font-style: italic;
 }
