@@ -5,3 +5,7 @@
 img {
   width: 100%;
 }
+div.img-box {
+  height: 250px;
+  overflow: hidden;
+}
